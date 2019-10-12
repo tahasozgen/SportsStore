@@ -1,0 +1,40 @@
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojAssemblyReference.cache
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+G:\benim_yazilimlarim\mvc\ProAspNetMvcFour\benim_yazdiklarim\ch7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.pdb
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Mvc.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.Razor.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
+C:\benim_yazilimlarim\mvc\adam freeman's book\benim_kodlarim\bolum7\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
