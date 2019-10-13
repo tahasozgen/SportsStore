@@ -191,12 +191,9 @@ public void Can_Paginate() {
             target.PageSize = 3;
 
             // Action - test the product counts for different categories
-            int res1 
-                = ((ProductsListViewModel)target.List("Cat1").Model).PagingInfo.TotalItems;
-            int res2 
-                = ((ProductsListViewModel)target.List("Cat2").Model).PagingInfo.TotalItems;
-            int res3 
-                = ((ProductsListViewModel)target.List("Cat3").Model).PagingInfo.TotalItems;
+            int res1 = ((ProductsListViewModel)target.List("Cat1").Model).PagingInfo.TotalItems;
+            int res2 = ((ProductsListViewModel)target.List("Cat2").Model).PagingInfo.TotalItems;
+            int res3 = ((ProductsListViewModel)target.List("Cat3").Model).PagingInfo.TotalItems;
             int resAll 
                 = ((ProductsListViewModel)target.List(null).Model).PagingInfo.TotalItems;
 
