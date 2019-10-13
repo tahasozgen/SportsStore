@@ -5,61 +5,37 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace SportsStore.WebUI
-{
-    public class RouteConfig
-    {
-        public static void RegisterRoutes(RouteCollection routes)
-        {
+namespace SportsStore.WebUI {
+    public class RouteConfig {
+        public static void RegisterRoutes(RouteCollection routes) {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
-            /*
-            public static Route MapRoute(this RouteCollection routes, string name, string url, object defaults);
 
-            */
-            routes.MapRoute(
-                null,   //tstring name
-                "", //string url
-                new //object defaults
-                {
-                    controller = "Product",
-                    action = "List",
-                    category = (string)null,
-                    page = 1
+            routes.MapRoute(null,
+                "", 
+                new {
+                    controller = "Product", action = "List",
+                    category = (string)null, page = 1
                 }
             );
 
-            /*
-            public static Route MapRoute(this RouteCollection routes, string name, string url, object defaults, object constraints);
-            */
-
-            routes.MapRoute(null, //this RouteCollection routes            
-                "Page{page}",   //string name            
-                new { controller = "Product", action = "List",  //string url
-                category = (string)null },// object defaults
-                new { page = @"\d+" }   //object constraints
+            routes.MapRoute(null,
+                "Page{page}", 
+                new { controller = "Product", action = "List", category = (string)null },
+                new { page = @"\d+" } 
             );
 
-            /*
-            public static Route MapRoute(this RouteCollection routes, string name, string url, object defaults);
-            */
-            routes.MapRoute(
-                null,               // string name
-                "{category}",       //string url 
-                new { controller = "Product", action = "List", page = 1 }   //object defaults
+            routes.MapRoute(null,
+                "{category}",
+                new { controller = "Product", action = "List", page = 1 }
             );
 
-            /*
-            public static Route MapRoute(this RouteCollection routes, string name, string url, object defaults, object constraints);
-            */
-            routes.MapRoute(
-                null,          //string name  
-                "{category}/Page{page}",        //string url    
-                new { controller = "Product", action = "List" },      //object defaults      
-                new { page = @"\d+" }   // object constraints
+            routes.MapRoute(null,
+                "{category}/Page{page}", 
+                new { controller = "Product", action = "List" }, 
+                new { page = @"\d+" }
             );
 
             routes.MapRoute(null, "{controller}/{action}");
-
         }
     }
 }
